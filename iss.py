@@ -92,7 +92,7 @@ def iss_map(coords, indy_time):
     indy.begin_fill()
     indy.circle(1)
     indy.end_fill()
-    indy.write(f'Next pass: {indy_time}')
+    indy.write(f'  Next pass: {indy_time}')
     # move iss turtle to long and lat on map
     space_station.hideturtle()
     space_station.penup()
