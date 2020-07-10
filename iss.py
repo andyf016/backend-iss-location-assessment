@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-__author__ = '???'
+__author__ = 'Andrew Fillenwarth, Thanks to Daniel for the study halls!'
 
 import turtle
 import requests
